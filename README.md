@@ -56,7 +56,9 @@ G40,high,yes,excellent,yes
 ## Output:
 
 Training Data Set  Buying Table
-![Uploading 2a1.png…]()
+![2a1](https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/f3fc9dd4-8e7e-418b-aa64-ea63f9cbfc25)
+
+![2a2](https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/cb2f3ba6-7448-4c7b-b16b-d90ca34d20cd)
 
 
 ## Result:
@@ -122,7 +124,9 @@ female,0115,sbh,pdtr,no
 
 ## Output:
 ## Training Data Set  Banking Table
+![2b1](https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/81663f00-b8a3-49a1-8940-de404be37778)
 
+![2b2](https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/bfdb9760-ad26-44e8-abd5-3bc140c73536)
 
 ## Result:
 
@@ -180,6 +184,9 @@ middle, high, B
 
 ## Output:
 ## Training Data Set  Employee Table
+![2c1](https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/1caf7ad9-ff97-417c-b60d-5acd2d23bdb3)
+![2c2](https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/9769a9cc-c161-4f98-a5ca-4c6b59ee8c29)
+
 
 ## Result:
 
